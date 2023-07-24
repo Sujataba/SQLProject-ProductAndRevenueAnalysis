@@ -8,9 +8,9 @@ Sports clothing and athleisure attire is a huge industry, worth approximately [$
 
 ## Database used:
 - PostgreSQL Database
-- 
+  
 ## Dataset and Datasource used:
 - The dataset contains csv files for [five tables](https://github.com/Sujataba/SQLProject-ProductAndRevenueAnalysis/tree/ProjectPortfolio/datasets) (info,brands,finance,traffic,reviews). A Database has been created with 5 tables and data is imported using the csv files with product_id being the primary key for all of the 5 tables.
 - The datasets are taken from [DataCamp's](https://www.datacamp.com/) Datasets for Unguided Projects. The data for this project is collected for the year 2021.
-- 
+  
 ## Please checkout the project@ [Revenue_Analysis](https://github.com/Sujataba/SQLProject-ProductAndRevenueAnalysis/blob/ProjectPortfolio/Revenue_Analysis.ipynb)

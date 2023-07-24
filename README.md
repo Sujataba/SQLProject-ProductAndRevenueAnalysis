@@ -2,10 +2,9 @@
 ![](https://github.com/Sujataba/SQLProject-ProductAndRevenueAnalysis/blob/ProjectPortfolio/Online-Sports-Retail-logo.jpg)
 ## Project Description
 Sports clothing and athleisure attire is a huge industry, worth approximately [$193 billion in 2021](https://www.statista.com/statistics/254489/total-revenue-of-the-global-sports-apparel-market/) with a strong growth forecast over the next decade!
-In this project, I've done an exploratory product data analysis in SQL for an online sports clothing company using 
-The company is specifically interested in how it can improve revenue. 
-I've analysed product data such as pricing, reviews, descriptions, and ratings, as well as revenue and website traffic, to
-produce recommendations for its marketing and sales teams.
+- In this project, I've done an exploratory product data analysis in SQL for an online sports clothing company using 
+- The company is specifically interested in how it can improve revenue. 
+- I've analysed product data such as pricing, reviews, descriptions, and ratings, as well as revenue and website traffic, to produce recommendations for its marketing and sales teams.
 
 ## Database used:
 - PostgreSQL Database 
